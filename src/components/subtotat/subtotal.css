@@ -1,0 +1,18 @@
+.subtotal{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 100px;
+    padding: 20px;
+    background-color: #cbd6df;
+    border: 1px solid;
+    border-radius: 3px;
+    justify-content: space-between;
+}
+.subtotal__fields{
+    display: flex;
+}
+.subtotal>button{
+    width: 100%;
+    background-color: #d17e31;
+}
